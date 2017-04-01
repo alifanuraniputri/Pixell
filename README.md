@@ -9,6 +9,6 @@ Pixell adalah Line Bot yang membantu olshop2 di Line untuk membuat gambar produk
 3. Mode Pengumuman (Judul dan 2 poin pengumuman)
 4. Mode Watermark (menambahkan watermark pada foto, contoh text watermark: nama online shop)
 
-[Pixell](https://drive.google.com/file/d/0B6fiXkI78zroRE0tWDFKQXNXZUU/view?usp=sharing)
+[Pixell](https://github.com/alifanuraniputri/Pixell/blob/master/17632435_10209214964673423_4045758597877471207_o.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8Nq8fFruM8" frameborder="0" allowfullscreen></iframe>
