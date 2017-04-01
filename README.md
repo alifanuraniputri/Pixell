@@ -4,7 +4,7 @@ Pixell adalah Line Bot yang membantu olshop2 di Line untuk membuat gambar produk
 
 <a href="https://line.me/R/ti/p/%40qvx1517c"><img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
-<img height="560" width="560" src="https://github.com/alifanuraniputri/Pixell/blob/master/17632435_10209214964673423_4045758597877471207_o.jpg">
+<img height="560" width="560" src="h17632435_10209214964673423_4045758597877471207_o.jpg">
 
 1. Mode Single Produk (beserta nama, harga, dan deskripsi)
 2. Mode Kolase 2-4 Produk (beserta nama, harga, dan deskripsi)
