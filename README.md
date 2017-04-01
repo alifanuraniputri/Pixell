@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+### Pixell
 
-You can use the [editor on GitHub](https://github.com/alifanuraniputri/Pixell/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pixell adalah Line Bot yang membantu olshop2 di Line untuk membuat gambar produk sederhana, dengan 4 mode berikut:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[https://line.me/R/ti/p/%40qvx1517c](https://line.me/R/ti/p/%40qvx1517c) 
 
-### Markdown
+1. Mode Single Produk (beserta nama, harga, dan deskripsi)
+2. Mode Kolase 2-4 Produk (beserta nama, harga, dan deskripsi)
+3. Mode Pengumuman (Judul dan 2 poin pengumuman)
+4. Mode Watermark (menambahkan watermark pada foto, contoh text watermark: nama online shop)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Pixell](https://drive.google.com/file/d/0B6fiXkI78zroRE0tWDFKQXNXZUU/view?usp=sharing)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alifanuraniputri/Pixell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8Nq8fFruM8" frameborder="0" allowfullscreen></iframe>
